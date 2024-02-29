@@ -23,3 +23,22 @@ Passo 3:
 - Nesta etapa selecionei classificação de texto e entrei na análise de sentimento e opiniões na realizar a validação das sentenças do desafio proposto.
   ![image](https://github.com/Andrelpavan/languagestudio/assets/69944259/c5b06350-7bcc-45ba-a6e7-1716c2b74f15)
 
+Passo 4:
+- Realizei a análise da sentenças.
+  ![image](https://github.com/Andrelpavan/languagestudio/assets/69944259/b84a97ec-43ea-4700-b7f4-5389bbad3e9d)
+- Resultado da análise:
+  Sentença 1:
+  - O resultado desta análise de sentimento mostrou 61% negativo e 39% neutro, como principal aspecto como sendo um ponto negativo.
+  ![image](https://github.com/Andrelpavan/languagestudio/assets/69944259/fc55254c-717b-4963-92cc-ae011d3e3ca2)
+  Sentença 2:
+  - O resultado desta análise de sentimento mostrou 100% neutro, ou seja, algo inparcial. 
+  ![image](https://github.com/Andrelpavan/languagestudio/assets/69944259/d91076d2-1bb1-401b-9878-1e1fd81d7fcb)
+  Sentença 3:
+  ![image](https://github.com/Andrelpavan/languagestudio/assets/69944259/2a3ccf9c-9770-4945-ac21-6ff60022ce09)
+  Sentença 4:
+  ![image](https://github.com/Andrelpavan/languagestudio/assets/69944259/d6232b6b-1526-472a-a8c1-4121232fef0f)
+
+Resultado
+- Apesar da análise resultar num percentual significativo neutro, o principal tendencia foi aspecto como sendo negativo (61%).
+  
+Neste modulo do curso e juntamente com o desafio possibilitou entender a importância da Language Studio no Azure, em mostrar a sua capacidade de fornecer uma ampla gama de recursos de processamento de linguagem e sua diversas possibilidades de utilização.
